@@ -1,5 +1,5 @@
 <p align="center">
-<img width="1200" src="https://github.com/edwin06111998/Imagenes/blob/main/Proceso%20Chatbot/Header%20Quiz.png">
+<img width="1200" src="https://github.com/edwin06111998/Imagenes/blob/main/Proceso%20Chatbot/Header%20Test.jpg">
 </p>
 
 <h1 align="center"></h1>
