@@ -38,9 +38,7 @@ Estas son algunas de las características del sistema de monitoreo:
 * Integración con base de datos académicas (trabajando en ello)
 
 <p align="center">
-  <h3>Menú de inicio</h3>
    <img src="https://github.com/edwin06111998/Imagenes/blob/main/Proceso%20Chatbot/Proceso%20Quiz.gif" alt="Quiz"/>
-  El asistente virtual es capaz de reconocer un saludo y enviar un mensaje de bienvenida al usuario, en el cual mostrarle diferentes opciones a las cuales acceder.
 </p>
 
 
@@ -50,9 +48,7 @@ Siéntete libre de comentarme tu experiencia utilizando este sistema, puedes esc
 
 ## Contribuidores
 
-Este proyecto ha sido desarrollado únicamente por mí (Edwin Veloz).
-
-Importante: Manychat es el administrador de conversaciones utilizado para crear los flujos de este asistente virtual, sin embargo, se puede usar cualquier otro BSP que permita realizar conexiones vía API mediante protocolos (HTTP/HTTPS).
+Este proyecto ha sido desarrollado por (Edwin Veloz).
 
 ## Contacto
 
